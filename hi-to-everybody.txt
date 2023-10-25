@@ -1,0 +1,1 @@
+Aejemplo de archivo de texto para este repo, pero podria haber sido de algun otro tipo como lops necesarios para desarrollo web y el boton "Preview" es muy util para los de tipo "Mark Down".
